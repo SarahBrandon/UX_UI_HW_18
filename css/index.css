@@ -17,7 +17,8 @@
     color: black;
 }*/
 header {
-    background-color: #E4E5E5
+    background: white;
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(228,229,229,1) 100%);
 }
 header ul {
     float: right;
@@ -33,7 +34,8 @@ header li {
 
 .hero {
     padding: 25px;
-    background-color: #55C0B9
+    background: white;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 25%, rgba(85,192,185,1) 80%, rgba(85,192,185,1) 100%);
 }
 
 .content {
@@ -44,7 +46,8 @@ header li {
 }
 
 footer {
-    background-color: #E4E5E5;
+    background: white;
+    background: linear-gradient(0deg, rgba(228,229,229,1) 0%, rgba(255,255,255,1) 100%);
     padding: 20px;
 }
 footer ul {
